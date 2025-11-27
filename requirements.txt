@@ -24,3 +24,16 @@ tqdm==4.66.1
 pip==25.3
 setuptools==80.9.0
 wheel==0.45.1
+
+streamlit==1.51.0
+tensorflow==2.13.0
+matplotlib==3.6.3
+numpy>=1.24.0
+pillow>=9.0.0
+opencv-python>=4.7.0
+scikit-learn>=1.1.0
+pandas>=1.5.0
+rich==14.2.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+
